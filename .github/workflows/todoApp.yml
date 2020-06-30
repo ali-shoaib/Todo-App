@@ -36,4 +36,4 @@ jobs:
     - name: Install surge
       run: npm install -g surge
     - name: Surge deploying
-      run: surge ./build todobyalee.surge.sh --token ${{secrets.TODO_APP}
+      run: surge ./build todobyalee.surge.sh --token ${{secrets.TODO_APP}}
