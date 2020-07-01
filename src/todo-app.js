@@ -60,7 +60,7 @@ import React, { Component } from 'react';
   render(){
   return (  
     <div className="container" style={this.css}>
-      <h1 style={this.css2}>Todo App by <b color="green">Ali Shoaib</b></h1>
+      <h1 style={this.css2}>Todo App by <b>Ali Shoaib</b></h1>
       <div className="jumbotron ">
       <div className="form-group">
       <label htmlFor="usr">Name:</label>
