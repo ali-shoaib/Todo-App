@@ -1,15 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-//import App from './components/App';
 import * as serviceWorker from './serviceWorker';
 import 'bootstrap/dist/css/bootstrap.css';
-//import Practice from './practice';
 import Todo from './todo-app';
-//import Calculator from './calculator'
 
 ReactDOM.render(
   <React.StrictMode>
-  <Calculator />
+  <Todo />
   </React.StrictMode>,
   document.getElementById('root')
 );
