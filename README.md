@@ -1,5 +1,3 @@
 # Todo-App
-React assignment(piaic-cnc)
 
-
-A todo list application.
+A todo list application made on React JS.
